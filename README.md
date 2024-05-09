@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Dynamics CRM, Python Data Analysis**
 
-- 👯 I’m looking to collaborate on **Power Apps integration with Dynamics 365 CRM**
+- 👯 I’m looking to collaborate on **Microsoft Power Platform Advanced Integrations, Python AI Automation**
 
 - 👨‍💻 All of my projects are available at [http://ngenovictor.vercel.app/](http://ngenovictor.vercel.app/)
 
