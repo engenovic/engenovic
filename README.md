@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Intelligent RPA Automation Project**
 
-- 🌱 I’m currently learning **Dynamics CRM, Python Data Analysis**
+- 🌱 I’m currently learning **Dynamics CRM, UiPath**
 
-- 👯 I’m looking to collaborate on **Microsoft Power Platform Advanced Integrations, Python AI Automation**
+- 👯 I’m looking to collaborate on **Microsoft Power Platform, Python AI Automation and Software Integrations**
 
 - 👨‍💻 All of my projects are available at [http://ngenovictor.vercel.app/](http://ngenovictor.vercel.app/)
 
