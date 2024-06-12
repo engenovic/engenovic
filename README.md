@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngeno</h1>
-<h3 align="center">An accomplished technology professional and innovator with 4+ years of experience driving digital transformation, intelligent automation.</h3>
+<h3 align="center">I help people and organizations solve problems that matter, develop a competitive advantage, and design their future with technology!</h3>
 
 
 - 🔭 I’m currently working on **Intelligent RPA Automation Project**
