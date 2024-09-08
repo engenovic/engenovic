@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [http://ngenovictor.vercel.app/](http://ngenovictor.vercel.app/)
 
-- ⚡ Fun fact **There are 10 types of people in the world… those that understand binary and those that don't.**
+- ⚡ Fun fact **There are 10 types of people in the world… those that understand binary and those that don't. 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
