@@ -39,5 +39,5 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/engenovic/"><img alt="LinkedIn" src=""></a>
+<a href="https://www.linkedin.com/in/engenovic/"><img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
 </p>
