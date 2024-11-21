@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Backend Developer with focus on Cloud & AI solutions.
-- 💼 &nbsp; Driving technological innovation (Microsoft (Power Apps, Power Automate, SharePoint), Backend (Python, Django, DRF) and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, , Automations and Algorithms.
+- 🤔 &nbsp; Backend Developer with a focus on Cloud & AI.
+- 💼 &nbsp; Experienced with Cloud (Microsoft (Power Apps, Power Automate, SharePoint), Backend (Python, Django, DRF) and Data Structures Algorithms).
+- 🌱 &nbsp; Learning more about Entrepreneurship, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: When I am not coding, I am on my farm.
 
 ---
