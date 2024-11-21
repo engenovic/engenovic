@@ -1,4 +1,4 @@
-## Hey there, Ngeno here!
+## Hey there 👋, Ngeno here!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
